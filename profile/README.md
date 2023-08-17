@@ -1,6 +1,6 @@
 # Apoowo E-Wallet System
 
-![Apoowo Logo]()
+![Apoowo Logo](/profile/apoowo_logo.jpeg)
 
 Welcome to the Apoowo E-Wallet System GitHub repository! Apoowo is a user-friendly e-wallet system that enables seamless money transfers and transactions.
 
