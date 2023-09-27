@@ -1,8 +1,8 @@
-# Apoowo E-Wallet System
+# ApoOwo E-Wallet System
 
-![Apoowo Logo](/profile/apoowo_logo.jpeg)
+![ApoOwo Logo](/profile/apoowo_logo.jpeg)
 
-Welcome to the Apoowo E-Wallet System GitHub repository! Apoowo is a user-friendly e-wallet system that enables seamless money transfers and transactions.
+Welcome to the ApoOwo E-Wallet System GitHub repository! Apoowo is a user-friendly e-wallet system that enables seamless money transfers and transactions.
 
 ## Features
 
@@ -10,11 +10,11 @@ Welcome to the Apoowo E-Wallet System GitHub repository! Apoowo is a user-friend
 - **Secure Transactions:** Ensured security protocols for safe financial transactions.
 - **User-Friendly Interface:** Intuitive user interface for a smooth user experience.
 - **Transaction History:** Keep track of your transaction history and account balance.
-- **Notifications:** Receive real-time notifications for transactions and acount updates.
+- **Notifications:** Receive real-time notifications for transactions and account updates.
 
 ## Getting Started 
 
-To get started with Apoowo, follow these steps:
+To get started with ApoOwo, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
